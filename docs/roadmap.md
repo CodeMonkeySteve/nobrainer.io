@@ -10,7 +10,6 @@ The roadmap is the following. Items at the beginning of the list are somewhat hi
   values.
 * Permit loading attributes when performing atomic operations.
 * Write a bunch of recipes and patterns.
-* Support type definitions like `[Integer]` to specify typed arrays.
 * Provide a lazy migration mechanism.
 * Provide a connection pool.
 * Add support for eager_loading on raw queries.
